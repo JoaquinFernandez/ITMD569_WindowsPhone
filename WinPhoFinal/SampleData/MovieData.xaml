@@ -1,0 +1,17 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WinPhoFinal" 
+    SampleProperty="Sample Text Property Value">
+    
+    <local:MainViewModel.Items>
+        <local:ItemViewModel Title="Escape From Planet Earth 3D" 
+                             Rating="62"
+                             MpaaRating="PG" 
+                             Runtime="89" 
+                             Synopsis="The 3D animated family comedy catapults moviegoers to planet Baab where admired astronaut Scorch Supernova (Brendan Fraser) is a national hero to the blue alien population. A master of daring rescues, Scorch pulls off astonishing feats with the quiet aid of his nerdy, by-the-rules brother, Gary (Rob Corddry), head of mission control at BASA. When BASA's no-nonsense chief Lena (Jessica Alba) informs the brothers of an SOS from a notoriously dangerous planet, Scorch rejects Gary's warnings and bounds off for yet another exciting mission. But when Scorch finds himself caught in a fiendish trap set by the evil Shanker (William Shatner) it's up to scrawny, risk-adverse Gary to do the real rescuing. As the interplanetary stakes rise to new heights, Gary is left to save his brother, his planet, his beloved wife Kira (Sarah Jessica Parker) and their adventure hungry son Kip. (c) Weinstein" 
+                             Release="2013-02-15" 
+                             PosterUrl="http://content6.flixster.com/movie/11/16/82/11168216_det.jpg"/>
+    </local:MainViewModel.Items>
+    
+</local:MainViewModel>

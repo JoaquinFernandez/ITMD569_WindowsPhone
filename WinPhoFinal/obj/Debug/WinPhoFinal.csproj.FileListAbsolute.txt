@@ -1,0 +1,16 @@
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\ApplicationIcon.png
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\Background.png
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\WinPhoFinal.dll
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\WinPhoFinal.pdb
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\AppManifest.xaml
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\WinPhoFinal.xap
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\App.g.i.cs
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\DetailsPage.g.i.cs
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\MainPage.g.i.cs
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\WinPhoFinal.g.resources
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\WinPhoFinal.dll
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\WinPhoFinal.pdb
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\obj\Debug\XapCacheFile.xml
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\Newtonsoft.Json.dll
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\Newtonsoft.Json.pdb
+D:\Archivos_Multimedia\Documentos\Juako\Universidad\Chicago ITM\Topics Mobile\WinPhoFinal\WinPhoFinal\WinPhoFinal\Bin\Debug\Newtonsoft.Json.xml
